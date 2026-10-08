@@ -1,0 +1,46 @@
+# Private notes and generated training data
+README_LOCAL.md
+history/
+history.csv
+history_*.csv
+
+# Local tests (kept on disk, not published)
+tests/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# Virtual environments and local environment variables
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# Coverage, build, and packaging output
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
